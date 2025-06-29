@@ -66,9 +66,7 @@
 
 ### 📊 GitHub Stats & Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=technicalarpan&show_icons=true&theme=tokyonight&hide_border=true" alt="Arpan's GitHub Stats" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalarpan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
