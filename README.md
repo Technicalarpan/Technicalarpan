@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpan Mukherjee</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&width=600&lines=A+Passionate+Engineer+Exploring+AI%2C+ML%2C+DSA+%26+Data+Science;BTech+%2B+IITM+BS+Data+Science+Student;Always+Learning+Something+New+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&width=750&lines=Passionate+Engineer+in+AI,+ML,+DSA+%26+Data+Science;BTech+%2B+IITM+BS+Data+Science+Student;Always+Learning+New+Things+💡" alt="Typing SVG" />
 </p>
+
 
 ---
 
