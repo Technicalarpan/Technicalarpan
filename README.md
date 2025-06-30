@@ -46,16 +46,28 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
----
-
 ### 📌 Projects
 
 - 🧠 **Machine Learning Project** (under HOD of CSE, IISER Kolkata)  
-  → Built a model to predict blood sugar levels using **Random Forest Classifier**  
-  → Currently improving F1-score using **few-shot**, **k-shot**, and **fine-tuning** methods  
-  🔗 [GitHub Repo](https://github.com/Technicalarpan/iiser)
+  → Developed a fine-tuned ML model for early-stage diabetes classification using real medical data  
+  → Implemented advanced techniques like **fine-tuning**, **few-shot learning**, **cross-validation**, and **parameter tuning**  
+  → Focused on improving model F1-score and generalization with efficient preprocessing  
+  🔗 [GitHub Repo](https://github.com/Technicalarpan/Machine_Learning_IISER_KOL)
+
+- 📦 **Order Management System**  
+  → A Streamlit-based web app to manage orders, customers, and product data using intuitive UI  
+  → Features: Add/View/Delete entries, real-time updates, and integrated data storage using Pandas  
+  
+  🔗 [Live Project](https://ordermanage.streamlit.app/) | [GitHub Repo](https://github.com/Technicalarpan/order_management-system)
+
+- 🔍 **Autocomplete Search System with Frequency Count**  
+  → A terminal-based predictive search engine using **Trie** data structure  
+  → Suggests words based on prefix and ranks suggestions using historical frequency count  
+  → Built with Python, demonstrating data structure and algorithm design in real use cases  
+  🔗 [GitHub Repo](https://github.com/Technicalarpan/Autocomplete_search_system_with_frequency_count)
 
 ---
+
 
 ### 📘 Currently Learning
 
